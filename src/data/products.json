@@ -1,0 +1,77 @@
+{
+  "products": [
+    {
+      "id": "scented-lavender",
+      "name": "Lavender Dreams",
+      "description": "Calming French lavender with hints of vanilla. Perfect for relaxation and peaceful evenings.",
+      "price": 189,
+      "category": "Scented",
+      "image": "https://picsum.photos/seed/candle1/400/400",
+      "inStock": true
+    },
+    {
+      "id": "scented-vanilla",
+      "name": "Vanilla Bliss",
+      "description": "Warm Madagascar vanilla with subtle caramel notes. Creates a cozy, inviting atmosphere.",
+      "price": 169,
+      "category": "Scented",
+      "image": "https://picsum.photos/seed/candle2/400/400",
+      "inStock": true
+    },
+    {
+      "id": "scented-rose",
+      "name": "Rose Garden",
+      "description": "Elegant Damask rose with soft musk undertones. A romantic and sophisticated fragrance.",
+      "price": 219,
+      "category": "Scented",
+      "image": "https://picsum.photos/seed/candle3/400/400",
+      "inStock": true
+    },
+    {
+      "id": "decorative-pillar",
+      "name": "Ivory Pillar",
+      "description": "Classic hand-poured pillar candle. Elegant ivory finish perfect for any decor.",
+      "price": 149,
+      "category": "Decorative",
+      "image": "https://picsum.photos/seed/candle4/400/400",
+      "inStock": true
+    },
+    {
+      "id": "decorative-taper",
+      "name": "Gold Taper Set",
+      "description": "Set of 4 elegant tapered candles in warm gold. Perfect for dinner parties and special occasions.",
+      "price": 129,
+      "category": "Decorative",
+      "image": "https://picsum.photos/seed/candle5/400/400",
+      "inStock": true
+    },
+    {
+      "id": "gift-relaxation",
+      "name": "Relaxation Gift Set",
+      "description": "Curated set featuring Lavender Dreams, Vanilla Bliss, and a decorative candle holder.",
+      "price": 449,
+      "category": "Gift Sets",
+      "image": "https://picsum.photos/seed/candle6/400/400",
+      "inStock": true
+    },
+    {
+      "id": "gift-romance",
+      "name": "Romance Collection",
+      "description": "Rose Garden candle with premium matches and a silk gift bag. The perfect romantic gesture.",
+      "price": 349,
+      "category": "Gift Sets",
+      "image": "https://picsum.photos/seed/candle7/400/400",
+      "inStock": true
+    },
+    {
+      "id": "seasonal-winter",
+      "name": "Winter Spice",
+      "description": "Warm cinnamon, clove, and orange peel. Brings the cozy feeling of winter holidays.",
+      "price": 199,
+      "category": "Seasonal",
+      "image": "https://picsum.photos/seed/candle8/400/400",
+      "inStock": true
+    }
+  ],
+  "categories": ["All", "Scented", "Decorative", "Gift Sets", "Seasonal"]
+}

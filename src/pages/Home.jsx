@@ -12,7 +12,15 @@ export default function Home() {
       <section className="py-16 lg:py-24 bg-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid lg:grid-cols-2 gap-12 items-center">
-            <div className="text-center lg:text-left animate-fade-in">
+            <div className="flex justify-center lg:order-2 animate-fade-in">
+              <img
+                src={logo}
+                alt="J'aime la beauté"
+                className="w-full max-w-xs sm:max-w-sm lg:max-w-md logo-blend"
+              />
+            </div>
+
+            <div className="text-center lg:text-left lg:order-1 animate-fade-in-delayed">
               <p className="text-gold uppercase tracking-widest text-sm mb-4">Handcrafted with love</p>
               <h1 className="text-4xl sm:text-5xl lg:text-6xl font-display font-semibold text-text leading-tight mb-6">
                 Bring Warmth & Elegance to Your Home
@@ -23,14 +31,6 @@ export default function Home() {
               <Link to="/products" className="btn-gold inline-block">
                 Shop Collection
               </Link>
-            </div>
-
-            <div className="flex justify-center animate-fade-in-delayed">
-              <img
-                src={logo}
-                alt="J'aime la beauté"
-                className="w-full max-w-sm lg:max-w-md logo-blend"
-              />
             </div>
           </div>
         </div>

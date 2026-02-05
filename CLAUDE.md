@@ -33,9 +33,9 @@ E-commerce website for a candle shop. No payment gateway - orders are submitted 
 - `src/index.css` - Tailwind config, custom colors, animations
 
 ## Color Palette
-- Gold (primary): `#C5A052`
-- Gold light: `#E8D5A3`
-- Gold dark: `#A88B3D`
+- Green (primary): `#15301D`
+- Green light: `#A3C4AB`
+- Green dark: `#0E2114`
 - Cream (background): `#FDF8F3`
 - Cream dark: `#F5E6D3`
 - Text: `#4A4A4A`
